@@ -1285,6 +1285,7 @@ body {
 
   .footer__list[data-media="desktop"] {
     display: flex;
+    gap: 27px;
   }
 
   .footer__copyright {
